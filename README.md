@@ -18,10 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AsimS468&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asims468&show_icons=true&locale=en&layout=compact" alt="asims468" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asims468&show_icons=true&locale=en" alt="asims468" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asims468&" alt="asims468" /></p>
