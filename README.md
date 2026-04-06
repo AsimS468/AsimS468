@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Asim Salman</h1>
-<h3 align="center">A passionate frontend developer from Ontario, Canada.</h3>
+<h1 align="left">Hi 👋, I'm Muhammad Asim Salman</h1>
+<h3 align="left">A passionate frontend developer from Ontario, Canada.</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning NEXT.JS, Redux, Angular, and GSAP.<br>💬 Ask me about React, VUE, JavaScript.<br>📫 How to reach me: asims468.04@gmail.com<br>👨‍💻 See more of me at: asimsalman.com<br>
